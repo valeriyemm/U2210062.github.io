@@ -1,0 +1,20 @@
+body{
+    background: url(../image/1625192529_53-phonoteka-org-p-mainkraft-zastavka-na-rabochii-stol-krasiv-57.jpg) no-repeat center /cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1,h2{
+    color: rgb(241, 241, 241);
+}
+a{
+    color: orangered;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 5px solid black; 
+    border-radius: 20px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
